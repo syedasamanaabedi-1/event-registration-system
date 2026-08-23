@@ -93,8 +93,8 @@ Local: `http://localhost:5000/api`
 
 ## Deployed URLs
 
-- Frontend: (to be added after deployment)
-- Backend: (to be added after deployment)
+- Frontend: https://event-registration-system-blush.vercel.app
+- Backend: https://event-registration-backend-b1a2.onrender.com
 
 ## Roles & Permissions
 
